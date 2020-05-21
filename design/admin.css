@@ -1,0 +1,47 @@
+.divleft2
+{
+    height:700px;
+    width:15%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+}
+.mid
+{
+    height:700px;
+    width:82%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+    left:3%;
+	overflow-y:scroll;
+}
+.tbl{
+	
+	margin-left:20%;
+	float:left;
+	position:relative;
+	top:40px;
+}
+.disp
+{
+	background-color:#ffebcd;
+	width:99%;
+	position:relative;
+	font-size:20px;
+	margin-top:150px;
+	margin-left:5px;
+	border-collapse:collapse;
+}
+.disp1
+{
+	background-color:#ffebcd;
+	width:99%;
+	position:relative;
+	font-size:20px;
+	margin-top:180px;
+	margin-left:5px;
+	border-collapse:collapse;
+}

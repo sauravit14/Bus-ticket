@@ -1,0 +1,68 @@
+.divleft3
+{
+    height:550px;
+    width:15%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+}
+.midu
+{
+    height:550px;
+    width:82%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+    left:3%;
+	overflow-y:scroll;
+}
+.map
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:7%;
+	border:2px solid gray;
+	height:190px;
+	width:48%;
+}
+.map1
+{
+	border-style:dashed;
+	border-left-color:white;
+	border-top-color:white;
+	border-bottom-color:white;
+	border-right-color:gray;
+	float:left;
+	height:100%;
+	width:10%;
+	
+}
+
+.aval
+{
+	margin-left:55%;
+            
+}
+.disp
+{
+	background-color:#ffebcd;
+	width:99%;
+	position:relative;
+	font-size:20px;
+	margin-top:50px;
+	margin-left:5px;
+	border-collapse:collapse;
+}
+.disp1
+{
+	background-color:#ffebcd;
+	width:99%;
+	position:relative;
+	font-size:20px;
+	margin-top:10px;
+	margin-left:5px;
+	border-collapse:collapse;
+}

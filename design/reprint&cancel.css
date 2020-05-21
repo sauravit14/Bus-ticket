@@ -1,0 +1,33 @@
+.detaildiv
+{
+    height:750px;
+    width:100%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+    font-size: 18px;
+}
+.detaildiv2
+{
+    height:600px;
+    width:100%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+    font-size: 18px;
+}
+.detaildiv1
+{
+    height:300px;
+    width:100%;
+    background-color:#ffebcd;
+    float: left;
+    position:relative;
+    top:10px;
+    font-size: 18px;
+}
+
+
+

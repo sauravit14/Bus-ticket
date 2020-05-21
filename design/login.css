@@ -1,0 +1,48 @@
+.main
+{
+    height:700px;
+    width: 70%;
+    position: relative;
+    top:10px;
+    font-weight:bolder;
+    font-size:18px;
+    background-repeat:no-repeat;
+}
+.submain
+{
+    height:700px;
+    width:30%;
+    background-color:rgb(192,192,192);
+    float:left;
+    position: absolute;
+    top:77px;
+    left:70%;
+}
+.main input[type="submit"]
+{
+width:100px;
+height:35px;
+border-radius:5px;
+background-color:skyblue;
+font-weight:bolder;
+}
+.main input[type="button"]
+{
+width:100px;
+height:35px;
+border-radius:5px;
+background-color:skyblue;
+font-weight:bolder;
+}
+.main input[type="text"]{
+width:52%;
+height:30px;
+border:2px solid black;
+
+}
+.main input[type="password"]{
+width:52%;
+height:30px;
+border:2px solid black;
+
+}
